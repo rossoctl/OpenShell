@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **This repository is DEPRECATED and will be archived on 2026-11-02.**
+>
+> It is no longer maintained and will become read-only on that date.
+> No new issues or pull requests will be accepted after the archive.
+>
+> If you depend on anything here, migrate before 2026-11-02.
+
 # NVIDIA OpenShell
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/main/LICENSE)
